@@ -1,4 +1,4 @@
-# John Deere Alight Worklife
+## John Deere Alight Worklife
 
 An Alight Worklife employee-benefits portal clone for **John Deere**, built to match the
 live John Deere tenant on the Alight platform.
